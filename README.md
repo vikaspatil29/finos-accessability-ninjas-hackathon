@@ -32,10 +32,10 @@
 
 | Event Attribute| Description |
 | --- | --- |
-| Project Team Name | xxxxxxxx |
+| Ninjas | xxxxxxxx |
 | Project Name | xxxxxxxx |
 | Challenge | xxxxxxxx |
-| Event Track | xxxxxxxx |
+| Event Track | Hack the Code |
 
 ## Use Case Abstract
 <!--- Template Instructions  
