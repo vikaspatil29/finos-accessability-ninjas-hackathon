@@ -84,5 +84,7 @@ Our team members came together because ...
  
 | Name | Organization |
 | --- | --- |
-| [Name](social-url) | ??? |
-| [Name](social-url) | ??? |
+| [Raja H Henry](social-url) |Discover Financial Services |
+| [Elango Ramasamy](social-url) | ??? |
+| [Tarun Luthra](social-url) | Discover Financial Services |
+| [Vikas Patil](social-url) | Discover Financial Services |
