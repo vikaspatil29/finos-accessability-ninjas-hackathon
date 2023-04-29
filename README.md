@@ -32,7 +32,7 @@
 
 | Event Attribute| Description |
 | --- | --- |
-| Ninjas | xxxxxxxx |
+| Team Name | Ninjas |
 | Project Name | xxxxxxxx |
 | Challenge | xxxxxxxx |
 | Event Track | Hack the Code |
